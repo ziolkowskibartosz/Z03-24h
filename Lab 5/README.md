@@ -1,5 +1,5 @@
 ## Język skryptowy
-Python - [dokumentacja](https://docs.python.org/3/tutorial/index.html)
+Python - [dokumentacja](https://docs.python.org/3/tutorial/index.html)  
 Alternatywnie JavaScript/TypeScript dla zaawansowanych - [TypeScript](https://www.typescriptlang.org) + [React](https://reactjs.org) lub [Angular](https://angular.io) lub [Vue](https://vuejs.org)
 
 ## Zadanie
